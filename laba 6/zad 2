@@ -22,6 +22,7 @@ car = Car(make, model, fuel_type)
       
 print("\nИнформация о автомобиле:")
 print(car.get_info())    
+
     
 
     
